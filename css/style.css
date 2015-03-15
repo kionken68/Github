@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* Khai bao chung*/
+* { 
+	margin: 0px;
+	padding: 0px;
+}
+
+.clr { 
+	clear: both;
+}
+
+body{
+	background:#000000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.main {
+	background:#FFF;
+	width: 1000px;
+	height:680px;
+	margin: 0px auto;
+	color:#FFF;
+	text-align:center;
+	
+}
+/* Khai bao chung*/
+/* Khai bao header*/
+.header {
+	background:#00F;
+	width: 1000px;
+	height:110px;
+	line-height:100px;
+}
+/* Khai bao header*/
+/* Khai bao left_content*/
+.left_content {
+	background:#FF0;
+	width: 200px;
+	height:500px;
+	float:left;
+	line-height:100px;
+}
+/* Khai bao left_content*/
+/* Khai bao center_content*/
+.center_content {
+	background:#F00;
+	width:600px;
+	height:500px;
+	float:left;
+	line-height:100px;
+}
+/* Khai bao center_content*/
+/* Khai bao right_content*/
+.right_content {
+	background:#0F0;
+	width:200px;
+	height:500px;
+	float:right;
+	line-height:100px;
+}
+/* Khai bao right_content*/
+.footer {
+	background:#C99;
+	width:1000px;
+	height:70px;
+	float:left;
+	line-height:50px;
+}
+
+
